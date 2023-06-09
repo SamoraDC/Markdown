@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-reposit-rio
+# dio-desafio-github-primeiro-repositório
 Repositório Criado Desafio de Projeto sobre Git/Gitbub
 
 ## links úteis
