@@ -1,2 +1,6 @@
 # dio-desafio-github-primeiro-reposit-rio
-Desafio de Projeto sobre Git/Gitbub
+Repositório Criado Desafio de Projeto sobre Git/Gitbub
+
+## links úteis
+[sintaxe Basíca Markdown](https://www.markdownguide.org/basic-syntax/)
+
