@@ -1,6 +1,6 @@
-# dio-desafio-github-primeiro-repositório
-Repositório Criado Desafio de Projeto sobre Git/Gitbub
+# Digital_Inovation_One_desafio_github_primeiro_repositório
+Repositório Criado Para o Desafio de Projeto sobre Git/Github
 
-## links úteis
+## Links Úteis
 [sintaxe Basíca Markdown](https://www.markdownguide.org/basic-syntax/)
 
