@@ -8,34 +8,36 @@ Além disso, para desenvolvedores, Markdown é amplamente utilizado para escreve
 
 Em resumo, Markdown simplifica a formatação de texto, permitindo que você se concentre no conteúdo, não na formatação, sendo uma ferramenta versátil para comunicação e colaboração online.
 
-<h3> Markdown na Prática</h3>
-# Markdown Cheat Sheet
+<h2 align='center'> Markdown na Prática</h3>
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
+## Sintaxe Básica do Markdown
 
-## Basic Syntax
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+### Título, Subtítulo Intertítulo e Antetítulo
 
-### Título e Subtítulos
-
-`# Título `
+`# Título`
 `## Subtítulo` 
-### H3
+`### Intertítulo`
+`#### Antetítulo`
 
-### Bold
+### Alinhar Texto 
+`<h5 align='right'> Texto Alinhado a Direita </h5>` --> <h7 align='right'> Texto Alinhado a Direita </h7>
+<h5 align='left'> Texto Alinhado a Esquerda </h5>
+<h5 align='center'> Texto Alinhado no Centro </h5>
 
-**bold text**
+### Negrito
 
-### Italic
+**Texto em Negrito** --> `**Texto em Negrito**` 
 
-*italicized text*
+### Itálico
 
-### Blockquote
+*Texto em Itálico* --> `*Texto em Itálico*`
 
-> blockquote
+### Citação 
+
+> Está é uma citação --> `> Está é uma citação` 
+
 
 ### Ordered List
 
@@ -49,21 +51,23 @@ These are the elements outlined in John Gruber’s original design document. All
 - Second item
 - Third item
 
-### Code
+### Código
 
 `code`
 
-### Horizontal Rule
+### Linha Horizontal 
 
 ---
 
-### Link
+### Inserir Link
 
 [Markdown Guide](https://www.markdownguide.org)
 
-### Image
+### Imagem
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![qualquer texto que quiser](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200724145100/Python-vs-Other-Programming-Languages.png)
+
+`![qualquer texto que quiser](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200724145100/Python-vs-Other-Programming-Languages.png)`
 
 ## Extended Syntax
 
