@@ -22,9 +22,12 @@ Em resumo, Markdown simplifica a formatação de texto, permitindo que você se 
 `#### Antetítulo`
 
 ### Alinhar Texto 
-`<h5 align='right'> Texto Alinhado a Direita </h5>` --> <h7 align='right'> Texto Alinhado a Direita </h7>
-<h5 align='left'> Texto Alinhado a Esquerda </h5>
-<h5 align='center'> Texto Alinhado no Centro </h5>
+`<h5 align='right'> Texto Alinhado a Direita </h5>` 
+`<h5 align='left'> Texto Alinhado a Esquerda </h5>`
+`<h5 align='center'> Texto Alinhado no Centro </h5>`
+
+### Cor do Texto
+
 
 ### Negrito
 
@@ -39,21 +42,21 @@ Em resumo, Markdown simplifica a formatação de texto, permitindo que você se 
 > Está é uma citação --> `> Está é uma citação` 
 
 
-### Ordered List
+### Lista Numerada
 
-1. First item
-2. Second item
-3. Third item
+1. Lista 1
+2. Lista 2
+3. Lista 3
 
-### Unordered List
+### Lista não Numerada
 
-- First item
-- Second item
-- Third item
+- Lista 1
+- Lista 2
+- Lista 3
 
 ### Código
 
-`code`
+`Aqui se coloca o código`
 
 ### Linha Horizontal 
 
@@ -61,7 +64,8 @@ Em resumo, Markdown simplifica a formatação de texto, permitindo que você se 
 
 ### Inserir Link
 
-[Markdown Guide](https://www.markdownguide.org)
+`[Markdown Guide](https://www.markdownguide.org)` --> [Markdown Guide](https://www.markdownguide.org)
+
 
 ### Imagem
 
@@ -69,69 +73,39 @@ Em resumo, Markdown simplifica a formatação de texto, permitindo que você se 
 
 `![qualquer texto que quiser](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200724145100/Python-vs-Other-Programming-Languages.png)`
 
-## Extended Syntax
+## Mais Sintaxe 
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+### Tabela
 
-### Table
-
-| Syntax | Description |
+| Sintaxe | Descrição |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| `<h1 aling='center'>` | Título |
+| `Texto Simples` | Texto |
 
-### Fenced Code Block
+### Bloco de Código
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+print("Hello World")
 ```
 
-### Footnote
+### Nota de Rodapé
 
-Here's a sentence with a footnote. [^1]
+Isso é uma nota de rodapé. [^1]
 
-[^1]: This is the footnote.
+[^1]: Isso é uma nota de rodapé.
 
-### Heading ID
 
-### My Great Heading {#custom-id}
+### LIsta de Tarefas
 
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
 
 ### Emoji
 
-That is so funny! :joy:
+Ferramenta :toolbox: --> `Ferramenta :toolbox:`
+<hr>
 
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
 ## Links Úteis para desenvolvimento Markdown e README
 [dicas inicias de sintaxe Markdown](https://www.markdownguide.org/cheat-sheet/) 
 
