@@ -88,6 +88,7 @@ Em resumo, Markdown simplifica a formatação de texto, permitindo que você se 
 print("Hello World")
 ```
 
+
 ### Nota de Rodapé
 
 Isso é uma nota de rodapé. [^1]
