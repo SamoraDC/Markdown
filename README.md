@@ -102,12 +102,17 @@ Isso é uma nota de rodapé. [^1]
 - [ ] Tarefa 2
 - [ ] Tarefa 3
 
+```
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+```
 ### Emoji
 
 Ferramenta :toolbox: --> `Ferramenta :toolbox:`
 <hr>
 
-## Links Úteis para desenvolvimento Markdown e README
+## Links Úteis para Desenvolvimento Markdown e README
 [dicas inicias de sintaxe Markdown](https://www.markdownguide.org/cheat-sheet/) 
 
 [sintaxe Basíca Markdown](https://www.markdownguide.org/basic-syntax/)
